@@ -38,13 +38,7 @@ This course intended to show how to make use of data as a resource that you migh
 
 [Viz Softwares](https://www.predictiveanalyticstoday.com/top-data-visualization-software/)	
 
-Example viz Few others
 
-[Years You Have Left to Live, Probably](http://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/)
-
-[Causes of Death](http://flowingdata.com/2016/01/05/causes-of-death/) 
-
-[The Changing American Diet](https://flowingdata.com/2016/05/17/the-changing-american-diet/)
 
 
 [History through the president’s words](https://www.washingtonpost.com/graphics/politics/2016-sotu/language/)
@@ -60,3 +54,11 @@ Example viz Few others
 [An article on storytelling in Tableau](http://www.datablick.com/blog/2017/2/23/storytelling-in-tableau)	
 
 [Gapminder Data Visualization using GoogleVis and R](http://rstudio-pubs-static.s3.amazonaws.com/116038_0ebe7e3db5dd4f29ac10e0c994373f99.html)
+
+Example viz Few others
+
+[Years You Have Left to Live, Probably](http://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/)
+
+[Causes of Death](http://flowingdata.com/2016/01/05/causes-of-death/) 
+
+[The Changing American Diet](https://flowingdata.com/2016/05/17/the-changing-american-diet/)
