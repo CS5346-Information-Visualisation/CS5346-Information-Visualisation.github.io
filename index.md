@@ -1,4 +1,16 @@
-## Welcome to GitHub Pages
+<> ## Welcome to GitHub Pages
+
+# Learning Objectives:
+
+  - Learn the principles of designing information visualizations
+  - Know about variety of existing techniques and tools in information visualization
+  - Learn how to design new innovative visualizations
+  - Develop skills in different visualization techniques as applied to particular tasks
+  - Apply existing techniques e.g. topical, spatial, tree-based, and temporal visualizations to actual datasets.
+  - Design and implement an interactive visualization solution for a problem, by using an existing visualization tool.
+  - Learn to evaluate an interactive visualization
+  - Evaluate an interactive information visualization based on quantitative and qualitative metrics
+
 
 You can use the [editor on GitHub](https://github.com/CS5346-Information-Visualisation/home.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
