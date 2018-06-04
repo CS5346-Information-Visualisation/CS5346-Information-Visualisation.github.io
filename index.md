@@ -19,37 +19,25 @@ This course intended to show how to make use of data as a resource that you migh
 
 
 ### Tools/Resources:
-[Analyzing Minard's Visualization Of Napoleon's 1812 March](https://github.com/joannecheng/napoleon_analysis)
-https://robots.thoughtbot.com/analyzing-minards-visualization-of-napoleons-1812-march 	
-Recreating FN's Rose Petal diagram and discussion beyond.
-https://www.r-bloggers.com/going-beyond-florence-nightingales-data-diagram-did-flo-blow-it-with-wedges/ 	
-HistoryFlow viz technique explanation
-https://www.research.ibm.com/visual/projects/history_flow/explanation.htm 	
-Interesting vis on war & peace. The site provides perspectives on other topics too eg nuclear weapons etc Another related link is https://ourworldindata.org/slides/war-and-violence/#/title-slide
-https://ourworldindata.org/war-and-peace 	
-POWER BI Viz best practices
-https://docs.microsoft.com/en-us/power-bi/power-bi-visualization-best-practices 	
-Hans Rosling TED talk
-https://www.youtube.com/watch?v=hVimVzgtD6w 	
-Inspired EHRs: Designing for Clinicians
-http://inspiredehrs.org/designing-for-clinicians/ 	
-Visual Design
-https://www.interaction-design.org/literature/article/the-building-blocks-of-visual-design 	
-Viz Softwares
-https://www.predictiveanalyticstoday.com/top-data-visualization-software/ 	
-Example viz Few others http://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/ http://flowingdata.com/2016/01/05/causes-of-death/ https://flowingdata.com/2016/05/17/the-changing-american-diet/
-http://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/ 	
-History through the president’s words
-https://www.washingtonpost.com/graphics/politics/2016-sotu/language/ 	
-Google n-gram viewer
-https://books.google.com/ngrams 	
-Using Word Clouds for Topic Modeling Results It refers to a word cloud generator https://www.jasondavies.com/wordcloud/
-https://dhs.stanford.edu/algorithmic-literacy/using-word-clouds-for-topic-modeling-results/ 	
-Graph Drawing by Force-directed Placement by THOMAS M. J. FRUCHTERMAN* AND EDWARD M. REINGOLD
-http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.13.8444&rep=rep1&type=pdf 	
-Tableau Stories Also scroll on above page to the bottom and see related links.
-https://onlinehelp.tableau.com/current/pro/desktop/en-us/stories.html?tocpath=Design%20Views%20and%20Analyze%20Data%7CPresent%20Your%20Work%7CStories%7C_____0 	
-An article on storytelling in Tableau
-http://www.datablick.com/blog/2017/2/23/storytelling-in-tableau 	
-Gapminder Data Visualization using GoogleVis and R
-http://rstudio-pubs-static.s3.amazonaws.com/116038_0ebe7e3db5dd4f29ac10e0c994373f99.html
+[Analyzing Minard's Visualization Of Napoleon's 1812 March](https://robots.thoughtbot.com/analyzing-minards-visualization-of-napoleons-1812-march)	
+[Recreating FN's Rose Petal diagram and discussion beyond](https://www.r-bloggers.com/going-beyond-florence-nightingales-data-diagram-did-flo-blow-it-with-wedges/)	
+[HistoryFlow viz technique explanation](https://www.research.ibm.com/visual/projects/history_flow/explanation.htm)	
+[Interesting vis on war and peace: The site provides perspectives on other topics too eg nuclear weapons etc Another related link](https://ourworldindata.org/war-and-peace)
+[POWER BI Viz best practices](https://docs.microsoft.com/en-us/power-bi/power-bi-visualization-best-practices)	
+[Hans Rosling TED talk](https://www.youtube.com/watch?v=hVimVzgtD6w) 	
+[Inspired EHRs: Designing for Clinicians](http://inspiredehrs.org/designing-for-clinicians/)	
+[Visual Design](https://www.interaction-design.org/literature/article/the-building-blocks-of-visual-design)	
+[Viz Softwares](https://www.predictiveanalyticstoday.com/top-data-visualization-software/)	
+Example viz Few others
+[A](http://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/)
+[B](http://flowingdata.com/2016/01/05/causes-of-death/) 
+[C](https://flowingdata.com/2016/05/17/the-changing-american-diet/)
+[D](http://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/)
+
+[History through the president’s words](https://www.washingtonpost.com/graphics/politics/2016-sotu/language/)
+[Google n-gram viewer](https://books.google.com/ngrams) 	
+[Using Word Clouds for Topic Modeling Results It refers to a word cloud generator](https://dhs.stanford.edu/algorithmic-literacy/using-word-clouds-for-topic-modeling-results/ )	
+[Graph Drawing by Force-directed Placement by THOMAS M. J. FRUCHTERMAN* AND EDWARD M. REINGOLD](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.13.8444&rep=rep1&type=pdf)	
+[Tableau Stories ](https://onlinehelp.tableau.com/current/pro/desktop/en-us/stories.html?tocpath=Design%20Views%20and%20Analyze%20Data%7CPresent%20Your%20Work%7CStories%7C_____0)	
+[An article on storytelling in Tableau](http://www.datablick.com/blog/2017/2/23/storytelling-in-tableau)	
+[Gapminder Data Visualization using GoogleVis and R](http://rstudio-pubs-static.s3.amazonaws.com/116038_0ebe7e3db5dd4f29ac10e0c994373f99.html)
