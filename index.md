@@ -19,10 +19,10 @@ This course intended to show how to make use of data as a resource that you migh
 
 
 ### Tools/Resources:
-[Analyzing Minard's Visualization Of Napoleon's 1812 March](https://robots.thoughtbot.com/analyzing-minards-visualization-of-napoleons-1812-march)	
-[Recreating FN's Rose Petal diagram and discussion beyond](https://www.r-bloggers.com/going-beyond-florence-nightingales-data-diagram-did-flo-blow-it-with-wedges/)	
-[HistoryFlow viz technique explanation](https://www.research.ibm.com/visual/projects/history_flow/explanation.htm)	
-[Interesting vis on war and peace: The site provides perspectives on other topics too eg nuclear weapons etc Another related link](https://ourworldindata.org/war-and-peace)
+-[Analyzing Minard's Visualization Of Napoleon's 1812 March](https://robots.thoughtbot.com/analyzing-minards-visualization-of-napoleons-1812-march)	
+-[Recreating FN's Rose Petal diagram and discussion beyond](https://www.r-bloggers.com/going-beyond-florence-nightingales-data-diagram-did-flo-blow-it-with-wedges/)	
+-[HistoryFlow viz technique explanation](https://www.research.ibm.com/visual/projects/history_flow/explanation.htm)	
+-[Interesting vis on war and peace: The site provides perspectives on other topics too eg nuclear weapons etc Another related link](https://ourworldindata.org/war-and-peace)
 [POWER BI Viz best practices](https://docs.microsoft.com/en-us/power-bi/power-bi-visualization-best-practices)	
 [Hans Rosling TED talk](https://www.youtube.com/watch?v=hVimVzgtD6w) 	
 [Inspired EHRs: Designing for Clinicians](http://inspiredehrs.org/designing-for-clinicians/)	
