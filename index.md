@@ -40,13 +40,12 @@ This course intended to show how to make use of data as a resource that you migh
 
 Example viz Few others
 
-[A](http://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/)
+[Years You Have Left to Live, Probably](http://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/)
 
-[B](http://flowingdata.com/2016/01/05/causes-of-death/) 
+[Causes of Death](http://flowingdata.com/2016/01/05/causes-of-death/) 
 
-[C](https://flowingdata.com/2016/05/17/the-changing-american-diet/)
+[The Changing American Diet](https://flowingdata.com/2016/05/17/the-changing-american-diet/)
 
-[D](http://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/)
 
 [History through the president’s words](https://www.washingtonpost.com/graphics/politics/2016-sotu/language/)
 
