@@ -1,5 +1,3 @@
-<> ## Welcome to GitHub Pages
-
 # Learning Objectives:
 
   - Learn the principles of designing information visualizations
