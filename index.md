@@ -29,10 +29,7 @@ This course intended to show how to make use of data as a resource that you migh
 
 [Assignment 2](https://cs5346-information-visualisation.github.io/a2/index.html)
 
-
-
-
-### Assignment 3
+[Assignment 3](https://public.tableau.com/profile/wuzhong#!/vizhome/CS5346assignment3/Final)
 
 
 
