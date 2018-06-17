@@ -1,6 +1,4 @@
-### Assignment 1 
-
-
+### [Assignment 1](https://cs5346-information-visualisation.github.io/a1.html)
 ### Assignment 2
 
 
