@@ -27,7 +27,7 @@ This course intended to show how to make use of data as a resource that you migh
 
 [Assignment 1](https://cs5346-information-visualisation.github.io/a1.html)
 
-### Assignment 2
+[Assignment 2](https://cs5346-information-visualisation.github.io/a2/index.html)
 
 
 
