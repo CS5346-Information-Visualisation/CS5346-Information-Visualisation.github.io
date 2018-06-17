@@ -18,6 +18,21 @@ This course intended to show how to make use of data as a resource that you migh
   - Evaluate an interactive information visualization based on quantitative and qualitative metrics
 
 
+
+
+
+### Student Submissions:
+
+[Assignments](https://cs5346-information-visualisation.github.io/assignments)
+
+
+
+
+
+
+
+
+
 ### Tools/Resources:
 
 [Analyzing Minard's Visualization Of Napoleon's 1812 March](https://robots.thoughtbot.com/analyzing-minards-visualization-of-napoleons-1812-march)	
