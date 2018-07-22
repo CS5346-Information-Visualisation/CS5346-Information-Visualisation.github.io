@@ -46,7 +46,7 @@ This course intended to show how to make use of data as a resource that you migh
 
 
 
-
+<!---
 
 
 ### Tools/Resources:
@@ -94,7 +94,7 @@ Example viz Few others
 
 [The Changing American Diet](https://flowingdata.com/2016/05/17/the-changing-american-diet/)
 
-
+--->
 
 
 ### Projects
