@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/CS5346-Information-Visualisation/CS5346-Information-Visualisation.github.io/edit/master/uc.png)
+![alt text](https://cdn.pixabay.com/photo/2017/06/16/07/26/under-construction-2408062_960_720.png)
 
 ### About The course: 
 Information visualisation allows one to visualize large amount of data visually and interactively, enabling grasping of difficult concepts, gaining insights into analytics done, or discover patterns that would otherwise be difficult to surface through machine analytics alone.  In the era of big data, information visualisation plays an increasing important roles in problem solving in the workplace   People who visualize data is growing extremely quickly as we deal with more and more information. Even more important, the audience has moved far beyond those who are experts in visualization. By making these ideas accessible to a wide range of people, we should see some truly amazing things in the next decade.
