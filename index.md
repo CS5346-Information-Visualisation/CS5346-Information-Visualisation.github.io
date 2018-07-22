@@ -43,7 +43,7 @@ This course intended to show how to make use of data as a resource that you migh
 
 
 ### Assignment 5 
-
+[Assignment 5] (https://cs5346-information-visualisation.github.io/v/mycopy.html)
 
 
 <!---
