@@ -24,24 +24,26 @@ This course intended to show how to make use of data as a resource that you migh
 
 ### Sample assignments and solutions
 
-This section provides a sample set of previous assignments and solutions for them submitted by the students. The purpose of the material is to give you a rough idea of the past assignments and the expected level of programming skills required to generate the requested figures. The provided solutions are not guaranteed to be optimal and we are not expecting to see them copied as such (copy-pasted) for any of the future assignments. However, you may and are encouraged to use the same approaches and ideas if you see them fit for your own implementations – just write the code yourself.
+This section provides a sample set of previous assignments and solutions submitted by the students. The purpose of the material is to give you a rough idea of the past assignments and the expected level of programming skills required to generate the requested figures. The solutions provided are not guaranteed to be optimal and we are not expecting to see them copied as such (copy-pasted) for any of the future assignments. However, you are encouraged to use the same approaches and ideas if you see them fit for your own implementations – just write the code yourself.
 
-#### Assignment examples
+### Assignment examples
 
-You can find a sample assignment for Python below. There are four questions labelled as Q1..Q4 and several code samples below them.
+#### [Python](https://cs5346-information-visualisation.github.io/a1.html)
 
-[See the examples here](https://cs5346-information-visualisation.github.io/a1.html)
+You can find a sample assignment for Python above. There are four questions labelled as Q1..Q4 and several code snippets.
 
 
-The purpose of this assignment was to introduce the students to graphs that can be generated with JavaScript and especially D3. 
 
-[D3 examples](https://cs5346-information-visualisation.github.io/a2/index.html)
+#### [JavaScript/D3](https://cs5346-information-visualisation.github.io/a2/index.html)
 
-[Tableau examples](https://public.tableau.com/profile/wuzhong#!/vizhome/CS5346assignment3/Final)
+[Dataset](https://raw.githubusercontent.com/CS5346-Information-Visualisation/CS5346-Information-Visualisation.github.io/master/a2/data/kickstarter-2016.csv) ([licensed under CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)). You can find the original dataset from [here](https://www.kaggle.com/kemical/kickstarter-projects/data).
+
+
+##### Tableau
+
+[Tableau example](https://public.tableau.com/profile/wuzhong#!/vizhome/CS5346assignment3/Final)
 
 #### Final project video presentations
-
-These 
 
 [Video Presentations](https://cs5346-information-visualisation.github.io/v/mycopy.html)
 
