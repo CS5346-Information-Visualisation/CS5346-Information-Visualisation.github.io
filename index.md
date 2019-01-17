@@ -41,7 +41,8 @@ You can find a sample assignment for Python above. There are four questions labe
 
 ##### Tableau
 
-[Tableau example](https://public.tableau.com/profile/wuzhong#!/vizhome/CS5346assignment3/Final)
+[Tableau example visualization](https://public.tableau.com/profile/wuzhong#!/vizhome/CS5346assignment3/Final)
+[A few more examples](https://public.tableau.com/profile/naheed5299#!/)
 
 #### Final project video presentations
 
